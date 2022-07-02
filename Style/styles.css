@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+nav {
+    text-align: right;
+    padding: 50px 60px 30px 0;
+    background-color: brown;
+    
+}
+nav :hover{
+    background-color: orange;
+}
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 10px;
+    background-color: rgb(110, 6, 131);
+    border-radius: 15px 15px 15px 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.mifotito{
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+.mifotito-2{
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+.foto1{
+    display: inline-block;
+    width: 400px;
+    height: 475px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.foto2{
+    display: inline-block;
+    width: 500px;
+    height: 475px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.width-100{
+    width: 100%;
+}
+
+.width-75{
+    width: 74%;
+}
+
+.width-50{
+    width: 49%
+}
+
+.width-25{
+    width:24%
+}
+.vertical-align-middle{
+    vertical-align: middle;
+}
+.vertical-align-top{
+    vertical-align: top;
+    text-align: start;
+    padding-top: 100px;
+    padding-left: 15px;
+}
+.d-inline-block{
+    display: inline-block;
+    text-align: center;
+}
+.displayIB{
+    display: inline-block;
+}
+.espaciado{
+    padding-top: 90px;
+}
+.color-titulo{
+    background-color: yellowgreen;
+    border-radius: 0 15px 0 15px;
+}
+footer{
+    text-align: right; 
+    padding-right: 15px;
+    vertical-align: bottom;  
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagen{
+    background-image: url('../Imagenes/pexels-lucie-liz-3165335.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+.text-aling-left{
+    text-align: left;
+    padding-left: 20px;
+    text-align: justify;
+    text-align: center;
+}
+.padding-top{
+    padding-top: 15px;
+}
+.tex-align-right{
+    text-align: right;
+    text-align: start;
+}
+.content-float{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+    margin: 0%;
+}
+.float-1{  
+ height: 50%;
+   
+    float: left;
+}
+
+.float-2{   
+     height: 50%; 
+    
+    float: left;
+}
+
+.float-3{
+     height: 100px; 
+    
+    float: right;
+}
+.padding-left-playlist{
+    padding-left: 100px;
+}
+.padding-left-ilustrator{
+    padding-left: 20px;
+}
+.content-float2{
+    border: chartreuse snow;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    vertical-align: middle;
+    margin: 0%;
+    }
+#nav-estudios {
+    text-align: left;
+    padding: 20px 10px 30px 30px;
+    width: 20%;
+}
